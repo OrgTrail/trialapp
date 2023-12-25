@@ -2,4 +2,4 @@
 .projects
 .classpath
 /node_modules/.settings
-*.java
+.java
