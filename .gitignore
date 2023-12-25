@@ -1,0 +1,5 @@
+.settings
+.classpath
+.projects
+/node_modules/
+*.java
